@@ -24,4 +24,6 @@ title: Главная
 ---
 Перевод от AAlx
 
+Почему перевод идет так медленно?! [Читать тута](./speed)
+
 *Оригинал: [L's Voice Training Guide](https://www.reddit.com/r/transvoice/s/TUDyYB0gGX)*
