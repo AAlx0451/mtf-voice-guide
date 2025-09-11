@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lv1
+title: Уровень 1
 ---
 
 ## Руководство по тренировке голоса для MtF трансгендеров, уровень 1. 
@@ -8,9 +8,9 @@ title: Lv1
 ### Оглавление
 
 #### Уровень 1 – Основы
-1. Вдохновение (*)
-2. Длина голосового тракта (***)
-3. Тон (**)
+1. [(Вдохновение (`*`)](https://aalx0451.github.io/mtf-voice-guide/lv1#1-%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5)
+2. [Длина голосового тракта (`***`)](https://aalx0451.github.io/mtf-voice-guide/lv1#2-%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%B0)
+3. [Тон (`**`)](https://aalx0451.github.io/mtf-voice-guide/lv1#3-%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0-%D1%82%D0%BE%D0%BD%D0%B0)
 
 #### Уровень 2 – Средний
 1. 
