@@ -22,6 +22,6 @@ title: Главная
     *   *в разработке*
 
 ---
-[От переводчика](./translator)
+Перевод от AAlx
 
 *Оригинал: [L's Voice Training Guide](https://www.reddit.com/r/transvoice/s/TUDyYB0gGX)*
